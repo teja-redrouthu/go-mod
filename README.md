@@ -30,4 +30,7 @@ Ensure you have the following installed on your system:
        timestamp DATETIME NOT NULL
    );
 
-### # go-mysql
+3. **Test the application**
+   run main.go
+
+   
