@@ -31,6 +31,23 @@ Ensure you have the following installed on your system:
    );
 
 3. **Test the application**
-   run main.go
+
+- run main.go
+- I have passed the password argument directly in terminal or we can use environment variables
+
+   
+![image](https://github.com/user-attachments/assets/ed4ba2af-dece-4aaf-b15d-66a0a22c268d)
+
+4. **Open brower and enter url or curl from the terminal**
+
+
+![image](https://github.com/user-attachments/assets/1f357c3e-a02d-48ce-9185-c22af6736290)
+
+5. **Enter query in mysql to view the rows**
+
+
+![image](https://github.com/user-attachments/assets/da5196a4-234c-4f64-bbc4-d20ad763894b)
+
+
 
    
