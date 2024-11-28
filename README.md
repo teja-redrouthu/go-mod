@@ -46,7 +46,8 @@ Ensure you have the following installed on your system:
 5. **Enter query in mysql to view the rows**
 
 
-![image](https://github.com/user-attachments/assets/da5196a4-234c-4f64-bbc4-d20ad763894b)
+![image](https://github.com/user-attachments/assets/7e47c419-af7d-4055-9ab3-37b097480dd8)
+
 
 
 
